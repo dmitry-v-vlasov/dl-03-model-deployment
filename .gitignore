@@ -1,5 +1,6 @@
 data
 model
+model-*
 src-temp
 
 *.tar
